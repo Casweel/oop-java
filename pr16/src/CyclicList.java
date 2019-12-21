@@ -49,21 +49,21 @@ public class CyclicList {
 
     public boolean remove(String name) {
         boolean flag = false;
-        if (head.data.getName() == name) {
+        if (head.data.getName().equals(name)) {
             head = head.next;
             head.prev = null;
             flag = true;
-        } else if (tail.data.getName() == name) {
+        } else if (tail.data.getName().equals(name)) {
             tail = tail.prev;
             tail.next = null;
             flag = true;
         } else {
             Node help = head;
-            while (help.next != null && help.next.data.getName() != name) {
+            while (help.next != null && help.next.data.getName().equals(name)) {
                 help = help.next;
                 flag = true;
             }
-            if (help != null) {
+            if (flag) {
                 help.next = help.next.next;
                 help.next.prev = help;
             }
