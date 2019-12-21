@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7438e685-9b07-4e68-8973-6f76a725a86e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V482MuoqVD6bEmcTUKgZ6CVy5f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="pr7" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\DAFFODIL\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7438e685-9b07-4e68-8973-6f76a725a86e" name="Default Changelist" comment="" />
+      <created>1576500798311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576500798311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="364" key="GridCell.Tab.0.bottom" timestamp="1576677393585">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576677393585" />
+    <state width="1877" height="364" key="GridCell.Tab.0.center" timestamp="1576677393584">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576677393584" />
+    <state width="1877" height="364" key="GridCell.Tab.0.left" timestamp="1576677393584">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576677393584" />
+    <state width="1877" height="364" key="GridCell.Tab.0.right" timestamp="1576677393584">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576677393584" />
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom" timestamp="1576677393585">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576677393585" />
+    <state width="1877" height="364" key="GridCell.Tab.1.center" timestamp="1576677393585">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576677393585" />
+    <state width="1877" height="364" key="GridCell.Tab.1.left" timestamp="1576677393585">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576677393585" />
+    <state width="1877" height="364" key="GridCell.Tab.1.right" timestamp="1576677393585">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576677393585" />
+    <state x="661" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1576674530382">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="661" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1576674530382" />
+    <state x="-1304" y="250" key="run.anything.popup" timestamp="1576675949480">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1304" y="250" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576675949480" />
+  </component>
+</project>
